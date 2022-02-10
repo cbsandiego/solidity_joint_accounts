@@ -2,7 +2,7 @@
 
 ![savings](images/savings.jpg)
 
-This is a joint savings accounts created with a Solidity smart contract accepting two user addresses.  It will use ether management functions to implement a financial institution's requirements for providing features of the joing savings account.  Users will be able to deposit and withdraw funds from the account.
+This is a joint savings accounts created with a Solidity smart contract accepting two user addresses.  It will use ether management functions to implement a financial institution's requirements for providing features of the joint savings account.  Users will be able to deposit and withdraw funds from the account.
 
 ---
 
